@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+* { /*resetei o espaçamento de dentro (padding) e fora (margin) do conteúdo*/
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    width: 95%;/*define a largura da página*/
+    max-width: 800px; /*define o tamanho máximo da página*/
+    margin: auto;/*faz com que os elementos fiquem no meio da página, a margem dos dois lados ficam iguais, mas só se existir uma largura*/
+    background: url(bg.jpg) center; /*a cor do fundo da página é uma imagem e está centralizada*/
+
+    font-family: "Roboto", sans-serif; /*tipo da fonte*/
+    line-height: 1.5; /*espaçamento entre as linhas*/
+    color: white; /*cor da letra*/
+}
+
+main {
+    background-color: #00000054; /*criei uma cor de fundo diferente para o conteúdo principal da página*/
+    padding: 5px 40px; /*representa o espaçamento entre o conteúdo e a borda de um elemento 5px define acima e abaixo e 40px esquerda direita*/
+    padding-bottom: 20px;/*representa o espaçamento entre o conteúdo e a borda na parte inferior*/
+    margin-top: 20px; /*espaçamento fora do conteúdo na parte superior*/
+    border-radius: 10px; /*arredondamento das bordas*/
+}
+
+.logo, .titulo, .subtitulo {
+    text-align: center; /*alinhou todas essas classes ao centro*/
+    margin: 0; /*espaçamento fora do conteúdo*/
+}
+
+.resumo {
+    text-align: justify; /*alinhou o texto e justificou*/
+}
