@@ -3,13 +3,14 @@
 * { /*resetei o espaçamento de dentro (padding) e fora (margin) do conteúdo*/
     margin: 0 auto;
     padding: 0;
+    box-sizing: border-box; /*o valor border-box faz com que o navegador não calcule a dimensão dos elementos somando bordas e margens com altura e largura*/
 }
 
 body {
     width: 95%;/*define a largura da página*/
     max-width: 800px; /*define o tamanho máximo da página*/
     margin: auto;/*faz com que os elementos fiquem no meio da página, a margem dos dois lados ficam iguais, mas só se existir uma largura*/
-    background: url(bg.jpg) center; /*a cor do fundo da página é uma imagem e está centralizada*/
+    background: url(Img/bg.jpg) center; /*a cor do fundo da página é uma imagem e está centralizada*/
 
     font-family: "Roboto", sans-serif; /*tipo da fonte*/
     line-height: 1.5; /*espaçamento entre as linhas*/
