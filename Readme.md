@@ -1,5 +1,9 @@
 <h1 align="center"> Página Web da Linguagem de Programação Ruby</h1>
 
+![foto de capa](https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby" alt="um ruby")
+
+https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true
+
 <p align="center"> <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby" alt="badge lincense"/></p>
 
 <p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
