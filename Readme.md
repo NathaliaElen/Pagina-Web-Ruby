@@ -5,6 +5,7 @@
  </p>
   
   <p align="center">
+    <h4> Linguagem de programação Ruby </h4>
     <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby">
     <a href="https://codeclimate.com/github/digitalbocca/edbingo-teladesorteio/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/05fc13146ed957dee79f/maintainability">
