@@ -4,7 +4,7 @@
 
  <p align="center">
     <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/uses-badges.svg">
+      <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
     </a>
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
@@ -16,10 +16,24 @@
       <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
     </a>    
   </p>
+  
+   <p align="center">
+    <a href="https://forthebadge.com">
+      <img src="https://forthebadge.com/images/badges/uses-badges.svg">
+    </a>
+    <a href="https://forthebadge.com">
+      <img src="https://forthebadge.com/images/badges/uses-html.svg">
+    </a>
+    <a href="https://forthebadge.com">
+      <img src="https://forthebadge.com/images/badges/uses-css.svg">
+    </a>
+    <a href="https://forthebadge.com">
+      <img src="">
+    </a>    
+  </p>
  
  
 
-<p align="center"> <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="badge lincense"/></p> <p align="center"> <img src="https://forthebadge.com/images/badges/uses-css.svg" alt="badge lincense"/></p> <p align="center"> <img src="https://forthebadge.com/images/badges/uses-git.svg" alt="badge lincense"/></p> <p align="center"> <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="badge lincense"/></p>
 
 <p align="center"> <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby" alt="badge lincense"/></p>
 
