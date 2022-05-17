@@ -12,4 +12,4 @@
 
 - ``HTML``
 - ``CSS``
-- ``Visual Studio Code`
+- ``Visual Studio Code``
