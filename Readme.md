@@ -1,7 +1,7 @@
  <p align="center">
   <img src="https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true" width="200px">
-  <p align="center"> :construction:  Projeto finalizado  :construction: </p>
   <h1 align="center">Ruby - Página Web</h1>
+  <p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
   <h4 align="center">
     Sobre a Linguagem de Programação Ruby
   </h4>
