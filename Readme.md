@@ -12,8 +12,6 @@
   </p>
 
  <p align="center">
-    <h4>Sobre a Linguagem de Programação Ruby</h4>
-  
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
     </a>
