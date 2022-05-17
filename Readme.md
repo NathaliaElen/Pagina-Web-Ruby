@@ -6,15 +6,12 @@
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/uses-badges.svg">
     </a>
-    
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
     </a>
-    
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg">
     </a>
-    
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
     </a>    
