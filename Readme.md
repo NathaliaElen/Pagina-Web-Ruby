@@ -1,6 +1,17 @@
-<h1 align="center"> Página Web da Linguagem de Programação Ruby</h1>
-
-<p align="center"> <img src="https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true" alt="um ruby"/></p>
+ <p align="center">
+  <img src="https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true" width="200px">
+  <p align="center"> :construction:  Projeto finalizado  :construction: </p>
+  <h1 align="center">Ruby - Página Web</h1>
+  <h4 align="center">
+    Sobre a Linguagem de Programação Ruby
+  </h4>
+  
+  <p align="center">
+    <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby">
+    <a href="https://codeclimate.com/github/digitalbocca/edbingo-teladesorteio/maintainability">
+      <img src="https://api.codeclimate.com/v1/badges/05fc13146ed957dee79f/maintainability">
+    </a>
+  </p>
 
  <p align="center">
     <a href="https://forthebadge.com">
@@ -28,17 +39,8 @@
       <img src="https://forthebadge.com/images/badges/uses-git.svg">
     </a>    
   </p>
- 
- 
-
-
-<p align="center"> <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby" alt="badge lincense"/></p>
 
 <p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
-
-<h4 align="center"> 
-    :construction:  Projeto finalizado  :construction:
-</h4>
 
 ## ✔️ Técnicas e Tecnologias Utilizadas:
 
