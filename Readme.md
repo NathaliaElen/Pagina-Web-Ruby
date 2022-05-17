@@ -4,9 +4,6 @@
 
  <p align="center">
     <a href="https://forthebadge.com">
-      <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
-    </a>
-    <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
     </a>
     <a href="https://forthebadge.com">
@@ -28,7 +25,7 @@
       <img src="https://forthebadge.com/images/badges/uses-css.svg">
     </a>
     <a href="https://forthebadge.com">
-      <img src="">
+      <img src="https://forthebadge.com/images/badges/uses-git.svg">
     </a>    
   </p>
  
