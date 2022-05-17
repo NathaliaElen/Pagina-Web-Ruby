@@ -2,9 +2,7 @@
   <img src="https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true" width="200px">
   <h1 align="center">Ruby - Página Web</h1>
   <p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
-  <h4 align="center">
-    Sobre a Linguagem de Programação Ruby
-  </h4>
+ </p>
   
   <p align="center">
     <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby">
@@ -14,6 +12,8 @@
   </p>
 
  <p align="center">
+    <h4>Sobre a Linguagem de Programação Ruby</h4>
+  
     <a href="https://forthebadge.com">
       <img src="https://forthebadge.com/images/badges/built-by-developers.svg">
     </a>
@@ -39,8 +39,10 @@
       <img src="https://forthebadge.com/images/badges/uses-git.svg">
     </a>    
   </p>
-
-<p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
+  
+  <h4 align="center">
+    <p align="center"> :construction:  Projeto finalizado  :construction: </p>
+  </h4>
 
 ## Autora:
 
