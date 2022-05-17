@@ -2,6 +2,16 @@
 
 <p align="center"> <img src="https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true" alt="um ruby"/></p>
 
+<p align="center"> <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="badge lincense"/></p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/oooo-kill-em.svg" alt="badge lincense"/></p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="badge lincense"/></p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/validated-html5.svg" alt="badge lincense"/></p>
+
+<p align="center"> <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="badge lincense"/></p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/uses-css.svg" alt="badge lincense"/></p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/uses-git.svg" alt="badge lincense"/></p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" alt="badge lincense"/></p>
+
 <p align="center"> <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby" alt="badge lincense"/></p>
 
 <p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
