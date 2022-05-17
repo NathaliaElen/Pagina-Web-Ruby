@@ -2,10 +2,12 @@
   <img src="https://github.com/NathaliaElen/Pagina-Web-Ruby/blob/main/Img/ruby.png?raw=true" width="200px">
   <h1 align="center">Ruby - Página Web</h1>
   <p align="center">Minha primeira página web usando HTML e CSS simples com uma breve explicação da linguagem de programação Ruby.</p>
+  <h4 align="center">
+    Sobre a Linguagem de Programação Ruby
+  </h4>
  </p>
   
   <p align="center">
-    <h4> Linguagem de programação Ruby </h4>
     <img src="https://img.shields.io/github/license/NathaliaElen/Pagina-Web-Ruby">
     <a href="https://codeclimate.com/github/digitalbocca/edbingo-teladesorteio/maintainability">
       <img src="https://api.codeclimate.com/v1/badges/05fc13146ed957dee79f/maintainability">
