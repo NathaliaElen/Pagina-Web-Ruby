@@ -7,3 +7,9 @@
 <h4 align="center"> 
     :construction:  Projeto finalizado  :construction:
 </h4>
+
+## ✔️ Técnicas e Tecnologias Utilizadas:
+
+- ``HTML``
+- ``CSS``
+- ``Visual Studio Code`
